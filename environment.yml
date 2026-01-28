@@ -94,4 +94,5 @@ dependencies:
       - langchain_chroma
       - streamlit
       - openpyxl
+      - Pillow>=10.0.0
 prefix: /opt/conda
